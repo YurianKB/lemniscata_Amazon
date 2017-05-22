@@ -23,8 +23,8 @@ body{
 	font-weight: bold;
 }
 .contenedor-productos{
-	width: 80%;
-	margin-left: 3%;
+	width: 100%;
+	padding-left: 3%;
 }
 .imagenes-centradas{
 	border: none;
@@ -128,4 +128,9 @@ a.button.warning {
 
 .negro {
 	color: #000;
+}
+.barraLateral{
+	background-color: #FAFAFA;
+	margin-top: 3%;
+	padding-top: 1%;
 }
