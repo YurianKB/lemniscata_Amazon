@@ -41,7 +41,8 @@ body{
 
 .pt-30 {
   padding-top: 30px;
-	font-size: 80%;
+  font-size: 80%;
+  height: inherit;
 }
 
 #carrito {
