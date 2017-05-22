@@ -1,0 +1,70 @@
+body{
+    padding:0;
+    margin: 0 auto;
+    max-width: 1200px;
+}
+.menu > li{
+    font-size: 11px;
+}
+.menu a{
+    color: black;
+}
+.numero p{
+    font-size: 13px;
+    margin-top: 15px;
+}
+.rojo{
+    color: red;
+}
+.verde{
+    color: green;
+}
+.linea{
+    text-decoration: line-through;
+}
+#estrellas{
+    margin-left: 70%;
+}
+li{
+    list-style: none;
+}
+.row li , p, span{
+    font-size: 10px;
+}
+.sangria li{
+    margin-left: 10%;
+}
+.sangria span{
+    color: gray;
+}
+.precio{
+    width: 40px;
+    height: 20px;
+    display: inline;
+}
+#redondo{
+    border-radius: 50%;
+    display: inline;
+    width: 30px;
+    height: 30px;
+    font-size: 10px;
+    border:none;
+}
+.pagination{
+    background-color: #ECECEC;
+}
+.pagination strong{
+    font-size: 16px;
+    color: #397CD1;
+}
+.opinion{
+    border:1px solid #BBB9B9;
+    padding-left: 10%;
+    padding-top: 5px;
+}
+.opinion h4{
+    color: #757575;
+}
+.media-object-section p{
+    margin: 0;
+}
